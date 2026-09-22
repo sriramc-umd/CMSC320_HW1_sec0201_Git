@@ -5,3 +5,7 @@ Answer: Git is able to track version history of a project using the software all
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data Science can be applied to biology where there is a lot of data getting created and tested from experiments and data sceicne can help find patterns and prove hypotheses.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging keeps the histories of both branches combined intact keeping every commit while rebasing takes the commit of the new branch and adds it to the other in a clean straight lined manner while rewriting some other commits.
