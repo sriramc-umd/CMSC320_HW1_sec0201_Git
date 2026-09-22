@@ -9,3 +9,7 @@ Answer: Data Science can be applied to biology where there is a lot of data gett
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging keeps the histories of both branches combined intact keeping every commit while rebasing takes the commit of the new branch and adds it to the other in a clean straight lined manner while rewriting some other commits.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Meeting new people
